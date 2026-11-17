@@ -25,7 +25,7 @@ A full-stack travel planning web application built with **React**, **Vite**, and
 
 ### 📊 GitHub Stats
 
-![Archit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar-c-hit&show_icons=true&theme=tokyonight)
+![Archit's GitHub Stats](https://github-readme-stats.shion.dev/api?username=ar-c-hit&show_icons=true&theme=tokyonight)
 
 ---
 
